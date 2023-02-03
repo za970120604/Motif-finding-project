@@ -1,0 +1,102 @@
+Key =  AACCCCCGGGGGCCC
+position 641 on seq#1
+TACACCCGTGGGCCC
+position 242 on seq#2
+GCCCACGGGGGGCGC
+position 472 on seq#3
+TGCCCTTGGTGCCCC
+position 120 on seq#4
+CTCCCGCGGCGGCCC
+position 157 on seq#5
+AACGCCCGTGGGCCC
+position 729 on seq#6
+AACCTTCGTGGGCCC
+position 602 on seq#7
+TCCCCCCGGGGACGC
+position 760 on seq#8
+TACCCCTGAAGGCCC
+position 445 on seq#9
+CTCCGCGGGGGGCCC
+position 262 on seq#10
+TCCCACAGGGCGCCC
+position 192 on seq#11
+CGCCCCGGGTGCCCC
+position 457 on seq#12
+TTCCCAGGGCCCCGC
+position 458 on seq#13
+ATCCCCTGTGGCCCC
+position 599 on seq#14
+TCCCCCCGGGGGTCA
+position 735 on seq#15
+TACTCTCGGGGGCCC
+position 148 on seq#16
+TGCCCCGGTGACCCC
+position 235 on seq#17
+TTACACGGGGGGCCC
+position 340 on seq#18
+CCCCCCCGGGGCACC
+position 66 on seq#19
+CACCCCGGGAGCCCC
+position 267 on seq#20
+TACCGCGGGGCCCCC
+position 603 on seq#21
+CACCCAAGTGGGCCC
+position 367 on seq#22
+TACCCCCGGAGGCAT
+position 583 on seq#23
+CCCCCCTGAGGGCCC
+position 656 on seq#24
+ATCCCCAGGAGGACC
+position 58 on seq#25
+AACCACCGGGGGCTC
+position 630 on seq#26
+CACCTCAGGAGGCCC
+position 154 on seq#27
+TCCCCGCGGGTCCCC
+position 625 on seq#28
+GCCCCCCGGGGCTAC
+position 549 on seq#29
+TTCCTCGGGGGCCCC
+position 348 on seq#30
+GTCCCCTGGGGGCGC
+position 458 on seq#31
+AACCCCAGCGGGCAC
+position 658 on seq#32
+CGCCCCCGTTGGCGC
+position 289 on seq#33
+ATCCGCCGGGCGCCC
+position 347 on seq#34
+CTCTCCGGGGGCCTC
+position 512 on seq#35
+ACCCCCTAGGGCCGC
+position 108 on seq#36
+ATCCGACGGGGGCCC
+position 545 on seq#37
+TGCCCACGGTGGCGC
+position 568 on seq#38
+GACTCACGGGGGCGC
+position 432 on seq#39
+CTCGCCGGGGGCTCC
+position 626 on seq#40
+TACCACAGGGGGCCC
+position 284 on seq#41
+GGCCCCGGTTGCCCC
+position 739 on seq#42
+GACCCCCGGGGCCTC
+position 365 on seq#43
+CCCCCCCGTGGGCCC
+position 271 on seq#44
+ACCCCCCGACGCCCC
+position 283 on seq#45
+TCCCCCCGGGTCACC
+position 294 on seq#46
+GAACCACGGGGGCCC
+position 210 on seq#47
+CTCCCAGGCGCCCCC
+position 513 on seq#48
+TACCCCCGTGCCCCC
+position 524 on seq#49
+CTCCACCGTGGGCCC
+position 687 on seq#50
+TACCTCCGGAGGCCC
+==============================

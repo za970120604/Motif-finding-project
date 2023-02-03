@@ -1,0 +1,102 @@
+Key =  CCAGGAGCCCCCCGG
+position 103 on seq#1
+GCCGTTGATCCACTT
+position 935 on seq#2
+CCGAGGGGGCCCCTG
+position 570 on seq#3
+CCGGGGGATCCCCGG
+position 177 on seq#4
+CCGGAGGGCCCCGTT
+position 446 on seq#5
+CCTCTAGTTCCCCGG
+position 510 on seq#6
+CTGGTGGGCACTCGG
+position 913 on seq#7
+CCGGGGGCCCACCTA
+position 648 on seq#8
+CCCGAAGTCCTCGAG
+position 933 on seq#9
+ACCCGTGCCCAAGTG
+position 407 on seq#10
+ACAGGGGACCCATGT
+position 719 on seq#11
+CCCGGGGCTCCTCTT
+position 243 on seq#12
+ATCTTGGGTCAAGGG
+position 679 on seq#13
+CCGGGGGTCCCCGTT
+position 534 on seq#14
+CCGAGGGACCCCATG
+position 866 on seq#15
+CCGCGGGGCCCCCGA
+position 166 on seq#16
+ACAGGGGACCCCAGG
+position 681 on seq#17
+CCGGTAGACCCCACT
+position 511 on seq#18
+CCTGTGTTCCTCCAA
+position 6 on seq#19
+ATAATTGCCCCCCGG
+position 514 on seq#20
+CCGGTAGACTCACGG
+position 876 on seq#21
+CTCGGGGGCCCCCAT
+position 937 on seq#22
+CCTGTGGTCCCCTTT
+position 73 on seq#23
+CTGGGGGACCCCAGT
+position 6 on seq#24
+ACCGGGGCCCCATGA
+position 291 on seq#25
+CGGGGGGCTCCCGAG
+position 814 on seq#26
+CCGGGGGCCCCTCGC
+position 601 on seq#27
+CCTGAGGCCCATGGG
+position 172 on seq#28
+CCCGTGTACCCAGGA
+position 791 on seq#29
+ACTGAGGGCTCAGGG
+position 725 on seq#30
+ACTATAGTACAACTA
+position 384 on seq#31
+ACAGTTGCCCACAAG
+position 231 on seq#32
+CCTGTTGCCCAGTGA
+position 929 on seq#33
+ACTGGAGCTCACCTA
+position 607 on seq#34
+ATGAGGGACCATGTG
+position 805 on seq#35
+ACTGGGGCTCCCTTG
+position 380 on seq#36
+CTTGAATTTCCAGGT
+position 337 on seq#37
+CCTGTGACCCACGTA
+position 255 on seq#38
+CCCGGGTACCCCGGG
+position 632 on seq#39
+TTCGTTGTCCCCCGG
+position 479 on seq#40
+CCCGTAGGTCCAGGT
+position 119 on seq#41
+CTGGGTGCTCCAATG
+position 357 on seq#42
+TCTATGGGCCAAGTG
+position 483 on seq#43
+CTTAGGGTCCCAAGA
+position 127 on seq#44
+CCTCAGGCTCCCGGG
+position 663 on seq#45
+CCGGTAGTTAATGTG
+position 767 on seq#46
+ACTGGAGTCCAACGT
+position 632 on seq#47
+CTTGTGGAACCATGG
+position 725 on seq#48
+ACGGTGGCTACTCGG
+position 765 on seq#49
+ACTTTGGCTCAAGTG
+position 314 on seq#50
+CCACTGGACCATAGT
+==============================

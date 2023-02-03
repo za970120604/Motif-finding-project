@@ -1,0 +1,102 @@
+Key =  CCCCCCCCCCCCCCC
+position 136 on seq#1
+CCTCTCCCATCCTCC
+position 509 on seq#2
+CATCCCCCCTCCCAA
+position 300 on seq#3
+GCTCCCCAACGCCCA
+position 149 on seq#4
+CCTCCCACGCACCCC
+position 249 on seq#5
+CTTCACACACCCCCT
+position 534 on seq#6
+GTCCGCCTACCCCCT
+position 581 on seq#7
+ACCCTCAGTCCCCAC
+position 591 on seq#8
+GCTGCCACTCCGCCC
+position 577 on seq#9
+TGCCTCGCACCCCCC
+position 651 on seq#10
+CACCCCCGACCCCTT
+position 542 on seq#11
+TCCCCCAGACCCTAC
+position 503 on seq#12
+CATCCCCCGCGCGCC
+position 450 on seq#13
+CCCCCCCCGTTCGCG
+position 452 on seq#14
+CCCCCCCAATCCTTC
+position 25 on seq#15
+CCCCCCCTGCAGCCG
+position 460 on seq#16
+GCCCCCCCAGCCCAA
+position 49 on seq#17
+ACTCCCCGCCCACCA
+position 381 on seq#18
+GCCCTCACTCCCTTC
+position 150 on seq#19
+CCCCCTATACGCCCC
+position 686 on seq#20
+CCCCGCCCTTTGCCC
+position 220 on seq#21
+CCCCTCCGACACACC
+position 670 on seq#22
+CACCACCCACCGCAC
+position 145 on seq#23
+GCCCGTCGACCCCCC
+position 564 on seq#24
+GACCGCCCGCCGCCC
+position 266 on seq#25
+CTTCTCAGACCGCCC
+position 592 on seq#26
+GCCCCTCCCCGCCTT
+position 379 on seq#27
+CCTCCCCCAACGGCA
+position 220 on seq#28
+GCTCCCACATCGCCC
+position 537 on seq#29
+CACCCCCTCTTGCCC
+position 209 on seq#30
+CCCCCAACACCGCCA
+position 189 on seq#31
+CCTCCCCCAGACCCA
+position 238 on seq#32
+TCCCTACGCCCGCCC
+position 146 on seq#33
+TCTCCCCTATCCCCC
+position 662 on seq#34
+CCTATCCCGTCCCCC
+position 223 on seq#35
+TCCCCCCGTTTCCCC
+position 643 on seq#36
+CACCTCCGCCCCGAC
+position 660 on seq#37
+CCTCGTCGCCCGCCC
+position 684 on seq#38
+GCCCCCACTCGCCCG
+position 774 on seq#39
+TCCGTCCCTTCCCCA
+position 218 on seq#40
+TACCGCCTACCCCCT
+position 59 on seq#41
+TCTCTTCCCCCCCCC
+position 280 on seq#42
+CCCGTCCCAACCCCT
+position 328 on seq#43
+TCCCTCCCTACCTCC
+position 44 on seq#44
+GACCTCCCACCACCC
+position 465 on seq#45
+CACATCCTCCCCCTC
+position 110 on seq#46
+GTCGCCCCACCCTCA
+position 14 on seq#47
+TCCCCCATCCCGCCT
+position 25 on seq#48
+TACCCGACGCCCCCG
+position 302 on seq#49
+TTTGCCCCGCCCCCC
+position 694 on seq#50
+CTTCCCCCCCCCAAC
+==============================

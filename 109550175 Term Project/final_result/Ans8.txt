@@ -1,0 +1,102 @@
+Key =  CCCCCCCCCCCCCCC
+position 735 on seq#1
+CACCCACACGACCCC
+position 174 on seq#2
+TACCCCCCCCCATCG
+position 152 on seq#3
+CCGACGATCCCCCCC
+position 95 on seq#4
+TAGTCACCCACCCCC
+position 128 on seq#5
+ATGGCCTCCCCCCCC
+position 159 on seq#6
+TCCAGCCCTCACCCC
+position 14 on seq#7
+CCTCCGACCACCCCC
+position 714 on seq#8
+ACGCCAACCCGCCCC
+position 142 on seq#9
+CAATCACCCCTCCCC
+position 256 on seq#10
+CCCTCACCCCAGACC
+position 558 on seq#11
+TCCTCCTCCCCACCA
+position 600 on seq#12
+CCACCCACCCCGCAG
+position 7 on seq#13
+CTCCCTTCCACCCAC
+position 703 on seq#14
+CACCCGCCACAGCCG
+position 805 on seq#15
+CCCTCACTTCCCCCC
+position 66 on seq#16
+CTCTCTACCCCCCCC
+position 713 on seq#17
+CTGACCCCGCCCCAC
+position 4 on seq#18
+CCGTCCCCCTCCACG
+position 950 on seq#19
+CTTACGTCCCCCCCC
+position 866 on seq#20
+CCCGGCACCCCGCCG
+position 68 on seq#21
+GCGACTCCCCTCCCG
+position 763 on seq#22
+CCCTACCCCCTCTAG
+position 240 on seq#23
+ACGCCACCACCCCCC
+position 301 on seq#24
+CTGTCTCCCCTCCCC
+position 73 on seq#25
+CCCACCACCCTGTCC
+position 974 on seq#26
+CCGCACCCCAACCCG
+position 153 on seq#27
+ACAACTTCCCCCCCC
+position 793 on seq#28
+TCCTCCCCGCTCCCG
+position 287 on seq#29
+CCACCAACCTCACCC
+position 752 on seq#30
+CCGTCCTGCCACCCG
+position 558 on seq#31
+CCCCAATCTCACCCG
+position 562 on seq#32
+TCCACCCCCCCGCCA
+position 647 on seq#33
+ACGCCCCCGCTCCCG
+position 225 on seq#34
+ACCCCACCCGTCCCG
+position 135 on seq#35
+CCACCACCCCTGCCG
+position 884 on seq#36
+CTCCTCCCCGTCCCC
+position 363 on seq#37
+CCGATTCCGCCCCCC
+position 750 on seq#38
+CTGCCCCCCCGGGCG
+position 514 on seq#39
+CCCCATCACGCGCCC
+position 896 on seq#40
+CCGTCGTACCCCCAG
+position 189 on seq#41
+CCCTCCTAGCCCCCG
+position 191 on seq#42
+TCGCCCCCGCTGCCG
+position 212 on seq#43
+AAGCCCCCCACCCCG
+position 447 on seq#44
+TCCCCCCCCACGCCG
+position 786 on seq#45
+ACGGCCCGCCTCCAC
+position 578 on seq#46
+GCGCCCCCTCCGCCG
+position 751 on seq#47
+CCCACCCCCGACTTC
+position 543 on seq#48
+TCGAACTCGCCGCCC
+position 484 on seq#49
+CTTTCGCCCCACCCG
+position 313 on seq#50
+CCCAAACCCACCCCG
+==============================

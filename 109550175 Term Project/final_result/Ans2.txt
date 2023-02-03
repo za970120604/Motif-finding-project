@@ -1,0 +1,102 @@
+Key =  TGTATATAAAAATTG
+position 693 on seq#1
+AATTCTTACAAACTT
+position 116 on seq#2
+AAAATTTAAAAAAAG
+position 834 on seq#3
+AGATTTTCAAAAAGC
+position 319 on seq#4
+AACTTTTTAAAATCA
+position 419 on seq#5
+GATTTTTAAAAATGA
+position 930 on seq#6
+CATTTTTAAACAACG
+position 414 on seq#7
+AAATTTTAAAAATAC
+position 641 on seq#8
+AATTTTTAAAAACCT
+position 274 on seq#9
+AATTTGTGAAAACCT
+position 456 on seq#10
+AACTTCTTAAAAAGG
+position 716 on seq#11
+AATTTTTGTAAACAC
+position 499 on seq#12
+AATTTATAACAATGA
+position 894 on seq#13
+AATTATTATAAAATA
+position 27 on seq#14
+AATTTTTAAATACTT
+position 641 on seq#15
+AAATTTAAAAAAGCG
+position 384 on seq#16
+AATTGTTAAAAAGAG
+position 593 on seq#17
+AATTTTTGAAAAACT
+position 296 on seq#18
+AAATTTTAAAACATT
+position 689 on seq#19
+TATTTTTAACAAAAC
+position 943 on seq#20
+AATTTATGAAAAATG
+position 246 on seq#21
+AATTTTCAAAAAGAA
+position 279 on seq#22
+TATTTTTAAGAATAG
+position 37 on seq#23
+AATTTTTACAAATCT
+position 611 on seq#24
+AACTTTGAAAAAACT
+position 918 on seq#25
+CATTTTTAGAAACCT
+position 660 on seq#26
+TGTTTTTAAAAAGAG
+position 830 on seq#27
+AATTTTTAAAATACA
+position 608 on seq#28
+AATTTTTTAAAACAT
+position 45 on seq#29
+CATTTGTAAAAACAG
+position 554 on seq#30
+AATGTTTTAAAAGGA
+position 631 on seq#31
+AGTTTTTAAGAAATC
+position 136 on seq#32
+AATTTTTGAAATTAT
+position 158 on seq#33
+CATCTTTAAAAATGC
+position 264 on seq#34
+AAATTTATAAAACTG
+position 967 on seq#35
+AAATTTTAGAAAAGG
+position 764 on seq#36
+GGTTTTTAAAAATGT
+position 322 on seq#37
+AGTTATTAAAAATTG
+position 552 on seq#38
+AATTTGTCAAAAGTG
+position 204 on seq#39
+AATTTTTAGAGAGGG
+position 277 on seq#40
+AATTTTTAACTAATG
+position 28 on seq#41
+AATTTCTAGAAACTG
+position 365 on seq#42
+AATTTGTAAAAACAC
+position 788 on seq#43
+AATCTTTAAAAATCA
+position 581 on seq#44
+AACCTTTTAAAAATT
+position 118 on seq#45
+AACTTTTAAAAATAT
+position 52 on seq#46
+AATTTTTAAAACCAG
+position 557 on seq#47
+AGTTTTTAAAAAGCA
+position 584 on seq#48
+TATTTTTAACAATAA
+position 371 on seq#49
+AATTTTTAAGAATCG
+position 102 on seq#50
+AATTTATCAAAAGTT
+==============================

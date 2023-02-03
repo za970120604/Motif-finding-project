@@ -1,0 +1,102 @@
+Key =  TCAACTCTATTTCTC
+position 644 on seq#1
+CGAGTCCAATTACTC
+position 701 on seq#2
+GAAACGCGTTAACTC
+position 216 on seq#3
+GCAACTCAGTTATCC
+position 451 on seq#4
+GGTTCTCATTAATTG
+position 384 on seq#5
+GTAGTAAATTAAGTC
+position 656 on seq#6
+GGAAAGATTTTTCTC
+position 502 on seq#7
+GGAGGCCGCTATCTC
+position 329 on seq#8
+GCCGCTTGTTATCTC
+position 733 on seq#9
+GGGAATCGTACTCTC
+position 225 on seq#10
+GCAGTTGCTTCACTC
+position 419 on seq#11
+CCAAATATTTTTCGC
+position 375 on seq#12
+GGAGATTACTAATTC
+position 677 on seq#13
+CCAATCCATTAAGCC
+position 176 on seq#14
+GTTACGCATGTTCTC
+position 11 on seq#15
+ACCATCCATTTATTC
+position 197 on seq#16
+CCAGAACATTACTTA
+position 666 on seq#17
+GACATTGGCTATTTC
+position 171 on seq#18
+GGAGCCGTTTATCTT
+position 126 on seq#19
+GAAATACTGTCTTTC
+position 757 on seq#20
+AGTGCTCCTTTACTC
+position 626 on seq#21
+GTAACCGATTTCCAC
+position 248 on seq#22
+GAAGATTATTTGCTC
+position 105 on seq#23
+GGAGCTGATAATCTC
+position 32 on seq#24
+GGAACCAATTATGTC
+position 681 on seq#25
+GCAATTCATTTTCTC
+position 242 on seq#26
+GCAATTAATTAACCT
+position 754 on seq#27
+GTAGACCATTATCGC
+position 326 on seq#28
+GCAATTCCCTTACGC
+position 714 on seq#29
+CGCGATCATTATTTC
+position 273 on seq#30
+GCCACACGTTTTCCC
+position 11 on seq#31
+GAAATTCACGAAGTC
+position 379 on seq#32
+GGAGTTGAATATTTC
+position 727 on seq#33
+GACCTTCATTCTTTC
+position 182 on seq#34
+GTAGACCCTTAATTA
+position 610 on seq#35
+CCTACTATATAACTC
+position 423 on seq#36
+GAAATAAATTAAGTT
+position 481 on seq#37
+GTAGTTCACATTCTT
+position 559 on seq#38
+GGGCAGCATTATCTC
+position 209 on seq#39
+GTAGCCCATTCAATC
+position 664 on seq#40
+GGAACACATTTTGGC
+position 234 on seq#41
+GTTGCTAAGTTACTC
+position 494 on seq#42
+GCAACACTGTTTTGC
+position 697 on seq#43
+GTCGATCATTTTCTA
+position 658 on seq#44
+GAAAACAGTTTATTC
+position 283 on seq#45
+CTAGCACCTTATTTC
+position 430 on seq#46
+AAAATCCACTATCCC
+position 614 on seq#47
+GCAAATATCGCTCTC
+position 508 on seq#48
+CAAGTTACTGTTCTC
+position 681 on seq#49
+GAACATCCCTATCTT
+position 331 on seq#50
+CCAACTCGTTTATTC
+==============================

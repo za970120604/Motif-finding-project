@@ -1,0 +1,102 @@
+Key =  AATTATTTAAAAACC
+position 687 on seq#1
+AATTCATAAAAAAAT
+position 423 on seq#2
+AAATTATTGAAAATT
+position 237 on seq#3
+ACATTTTTAAAAATC
+position 621 on seq#4
+ACATTTTTAAAAACC
+position 493 on seq#5
+AATTGTTGAAAAGCA
+position 142 on seq#6
+AAATGTTTAAAAAAG
+position 508 on seq#7
+AAAGCTTTAAAAAAA
+position 592 on seq#8
+AAATTTTTAAGCAAG
+position 695 on seq#9
+AAATATTTAGAAATT
+position 354 on seq#10
+AATTTTTAATAAATA
+position 571 on seq#11
+AAATTTGTAAAAAAA
+position 289 on seq#12
+AAGTGTTTAAAAAGA
+position 621 on seq#13
+GAATTTTAAAAACGA
+position 277 on seq#14
+TAATTTTAAAAAACG
+position 289 on seq#15
+AAACATTTAAAAAAC
+position 411 on seq#16
+AATGTATAAAAAACG
+position 110 on seq#17
+AATCTTTAAAAAAAC
+position 417 on seq#18
+AATTTTTTAAAAAAG
+position 6 on seq#19
+AACTCTTTAAAAACC
+position 777 on seq#20
+AATTCTTCAAAAACG
+position 371 on seq#21
+AAATATTTAAAACCA
+position 704 on seq#22
+AAGTTCTTAAAAACG
+position 671 on seq#23
+AAATTTTTAAGAACT
+position 87 on seq#24
+AAATTATTAAAATCG
+position 431 on seq#25
+AAGTTTTTAAAAACA
+position 181 on seq#26
+AAATGTTTATAAAAA
+position 549 on seq#27
+AAGTTTTTCAAAAGT
+position 46 on seq#28
+AAACTTTTAAAACGT
+position 500 on seq#29
+AATTTCTACAAAACT
+position 324 on seq#30
+ACATTATTAAAAATA
+position 205 on seq#31
+AAATTTTCAAAAAGA
+position 552 on seq#32
+AATTCTTAAAAATCT
+position 649 on seq#33
+AATTTTTAAAAACCG
+position 538 on seq#34
+AAATTTTTAAAGCCG
+position 113 on seq#35
+AAATTTTAAAAAGAC
+position 95 on seq#36
+CATTTTTTAAAAATT
+position 702 on seq#37
+AAGTCTTAAAAAATT
+position 594 on seq#38
+TAATTTTTAAAATCT
+position 166 on seq#39
+AAATTTTCAAAAATG
+position 505 on seq#40
+AATTCTTAAAAACGG
+position 737 on seq#41
+AAAGTTTTAAAATCC
+position 488 on seq#42
+AAATTCTTAAAAAGT
+position 689 on seq#43
+AAATTTTTGAAAAGC
+position 33 on seq#44
+AAATATTTAAAAAGC
+position 416 on seq#45
+AATTTTTTAACAATC
+position 333 on seq#46
+AAATTTTTCAAACGT
+position 52 on seq#47
+AATTCTTTAAAAAAC
+position 168 on seq#48
+AAATTTGTAAAAAGG
+position 288 on seq#49
+AACTTTTTAAAACAA
+position 612 on seq#50
+AAATGTTTAAAAGTA
+==============================
